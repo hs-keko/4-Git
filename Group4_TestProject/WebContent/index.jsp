@@ -14,5 +14,6 @@
 	<h2>push test!</h2>
 	<h3>push push</h3>
 	<h4>push?</h4>
+	<a href="https://new.typing.works/">타자연습 해볼래요?</a>
 </body>
 </html>
