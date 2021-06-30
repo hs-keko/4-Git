@@ -17,5 +17,6 @@
 	<p>하이</p>
 	<a href="https://new.typing.works/">타자연습 해볼래요?</a>
 	<p>쇼생크탈출 띵작!</p>
+	<p>저는 영화, 게임이 취미에요 ~</p>
 </body>
 </html>
