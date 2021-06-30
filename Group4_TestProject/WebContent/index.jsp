@@ -11,6 +11,6 @@
 	<h2>push test!</h2>
 	<h3>push push</h3>
 	<h4>push?</h4>
-	<p>안녕</p>
+	<p>하이</p>
 </body>
 </html>
